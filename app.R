@@ -8,7 +8,7 @@ library(ggplot2)
 library(GGally)
 library(tidyr)
 
-setwd("~/Documents/USF/Spring_Module_2/Data_Visualization/Asg3/Facebook_metrics")
+#setwd("~/Documents/USF/Spring_Module_2/Data_Visualization/Asg3/Facebook_metrics")
 
 ###########################
 ### HEATMAP DATA###########
